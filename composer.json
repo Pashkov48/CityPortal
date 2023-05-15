@@ -1,0 +1,12 @@
+{
+    "name": "ilyap/city-portal",
+    "autoload": {
+        "psr-4": {
+            "Ilyap\\CityPortal\\": "src/"
+        }
+    },
+    "require": {
+        "larapack/dd": "^1.1",
+      "ext-pdo": "*"
+    }
+}
